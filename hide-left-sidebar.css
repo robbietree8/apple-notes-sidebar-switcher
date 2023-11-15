@@ -1,0 +1,3 @@
+body > div:nth-child(7) > ui-main-pane > div > div > div > div > div.split-view.split-view-vertical.notes-three-panels-view > div:nth-child(1) {
+  display: none;
+}
