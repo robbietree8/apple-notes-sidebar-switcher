@@ -9,6 +9,6 @@
 
 ## How to Install
 
-1. git clone https://github.com/robbietree8/notes-sidebar-switcher
+1. git clone git@github.com:robbietree8/apple-notes-sidebar-switcher.git
 2. open chrome://extensions
 3. load unpacked extension
